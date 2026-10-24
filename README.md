@@ -3,7 +3,7 @@
 <h3 align="center">Android Developer · Final-Year CSE Student · SISTec, Bhopal</h3>
 
 <p align="center">
-  Building native Android apps with <b>Kotlin</b> &amp; <b>Jetpack Compose</b> · 329 LeetCode problems solved<br/>
+  Building native Android apps with <b>Kotlin</b> &amp; <b>Jetpack Compose</b> · 300+ LeetCode problems solved<br/>
   Currently looking for <b>Android / Software Development internships</b>
 </p>
 
