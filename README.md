@@ -1,44 +1,73 @@
-# Hi, I'm Ankit 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=140&section=header&text=Ankit%20Kumar&fontSize=44&fontColor=ffffff&animation=fadeIn" width="100%" alt="Ankit Kumar"/>
 
-I'm a final-year Computer Science student at SISTec, Bhopal, building native Android apps with **Kotlin** and **Jetpack Compose**. I also build REST APIs with **Node.js and MongoDB**, and I've solved **300+ DSA problems**.
+<h3 align="center">Android Developer · Final-Year CSE Student · SISTec, Bhopal</h3>
 
-I'm looking for **Android / Software Development internships**.
+<p align="center">
+  Building native Android apps with <b>Kotlin</b> &amp; <b>Jetpack Compose</b> · 329 LeetCode problems solved<br/>
+  Currently looking for <b>Android / Software Development internships</b>
+</p>
 
-[LinkedIn](https://linkedin.com/in/ankit-kumar-074a1a281) · [LeetCode](https://leetcode.com/u/Ankitkumarmourya/) · [Email](mailto:emailankitkumar747@gmail.com)
-
----
-
-## Featured Projects
-
-**[EasyShop](https://github.com/Ankitkumar747/EasyShop)**: Android e-commerce app with Firebase login, product browsing, categories, cart and profile. The cart syncs in real time through Cloud Firestore.
-`Kotlin` `Jetpack Compose` `Firebase Auth` `Cloud Firestore` `Navigation Compose`
-
-**[QR-Based Attendance System](https://github.com/Ankitkumar719/QR-Based-Attendance-System)**: Full-stack attendance system with Admin, Faculty and Student roles, REST APIs, JWT authentication and role-based access control.
-`Node.js` `Express.js` `MongoDB` `JWT`
-
-**[Notes App](https://github.com/Ankitkumar719/Notes)**: Notes app with full CRUD and local storage, built with MVVM and reactive state.
-`Kotlin` `Jetpack Compose` `Room` `StateFlow` `Coroutines`
-
-**[Weather App](https://github.com/Ankitkumar719/Weather_App)**: Search any city for live temperature, humidity, wind and conditions, with loading and error handling.
-`Kotlin` `Retrofit` `OpenWeather API`
+<p align="center">
+  <a href="https://linkedin.com/in/ankit-kumar-074a1a281"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://leetcode.com/u/Ankitkumarmourya/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+  <a href="mailto:emailankitkumar747@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
 
 ---
 
-## Tech Stack
+## 👨‍💻 About
 
-- **Android:** Kotlin, Jetpack Compose, MVVM, Room, Retrofit, Coroutines, Firebase
-- **Backend:** Node.js, Express.js, MongoDB, MySQL, REST APIs, JWT
-- **Languages:** Java, Python, C++, JavaScript
-- **Tools:** Git, GitHub, Gradle, Postman, AWS (fundamentals)
+- 📱 I build Android apps with **Jetpack Compose, MVVM, Room, Retrofit and Firebase**
+- 🌐 I build REST APIs with **Node.js, Express.js and MongoDB**
+- 💼 Android App Development Intern at Maincrafts Technology (2026)
+- 🏆 1st Place, Java Programming Competition (2024) · Smart India Hackathon 2024 participant
 
 ---
 
-## Achievements
+## 🛠️ Tech Stack
 
-- 1st Place, Java Programming Competition (Institute Level, 2024)
-- Participant, Smart India Hackathon 2024 (National Level)
+<p>
+  <b>Android</b><br/>
+  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,firebase,gradle" alt="Android stack"/>
+</p>
+<p>
+  <b>Backend &amp; Databases</b><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" alt="Backend stack"/>
+</p>
+<p>
+  <b>Languages</b><br/>
+  <img src="https://skillicons.dev/icons?i=java,py,cpp,c,js,html,css" alt="Languages"/>
+</p>
+<p>
+  <b>Tools &amp; Cloud</b><br/>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,aws" alt="Tools"/>
+</p>
+
+<sub>Also: Jetpack Compose · MVVM · Room · Retrofit · Coroutines · StateFlow · JWT</sub>
+
+---
+
+## 🚀 Featured Projects
+
+| Project | What it does | Tech |
+|---|---|---|
+| [**EasyShop**](https://github.com/Ankitkumar747/EasyShop) | Android e-commerce app with login/signup, product browsing, categories, profile, and a cart that syncs in real time | Kotlin, Jetpack Compose, Firebase Auth, Cloud Firestore |
+| [**QR-Based Attendance System**](https://github.com/Ankitkumar719/QR-Based-Attendance-System) | Full-stack attendance system with Admin, Faculty and Student roles, REST APIs, JWT auth and role-based access | Node.js, Express.js, MongoDB, JWT |
+| [**Notes App**](https://github.com/Ankitkumar719/Notes) | Notes app with full CRUD and local storage, built with MVVM and reactive state | Kotlin, Jetpack Compose, Room, StateFlow |
+| [**Weather App**](https://github.com/Ankitkumar719/Weather_App) | Live temperature, humidity, wind and conditions for any city, with loading and error handling | Kotlin, Retrofit, OpenWeather API |
+
+---
+
+## 📊 Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.shion.dev/api?username=Ankitkumar747&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=false&count_private=false" alt="GitHub stats"/>
+  <img height="165" src="https://streak-stats.demolab.com/?user=Ankitkumar747&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+</p>
 
 <p align="center">
   <img height="215" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Ankitkumar719&theme=tokyonight&hide_border=true&layout=donut&langs_count=6" alt="Top languages"/>
   <img height="215" src="https://leetcard.jacoblin.cool/Ankitkumarmourya?theme=dark&font=Karma&ext=heatmap" alt="LeetCode stats"/>
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=90&section=footer" width="100%" alt=""/>
