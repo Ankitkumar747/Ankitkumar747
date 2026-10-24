@@ -37,7 +37,6 @@ I'm looking for **Android / Software Development internships**.
 
 - 1st Place, Java Programming Competition (Institute Level, 2024)
 - Participant, Smart India Hackathon 2024 (National Level)
-- 329 problems solved on LeetCode, including 38 Hard
 
 <p align="center">
   <img height="215" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Ankitkumar719&theme=tokyonight&hide_border=true&layout=donut&langs_count=6" alt="Top languages"/>
