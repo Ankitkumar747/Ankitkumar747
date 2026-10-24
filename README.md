@@ -88,19 +88,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.shion.dev/api?username=Ankitkumar747&theme=tokyonight&hide_border=true&show_icons=true" alt="GitHub stats"/>
-  <img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Ankitkumar747&theme=tokyonight&hide_border=true&layout=compact" alt="Top languages"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Ankitkumar747&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
-</p>
-
----
-
 <p align="center">
   📫 Want to work together or just say hi? Reach me at
   <a href="mailto:emailankitkumar747@gmail.com">emailankitkumar747@gmail.com</a>
