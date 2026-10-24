@@ -91,12 +91,13 @@
 ## 📊 Stats
 
 <p align="center">
-  <img height="200" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Ankitkumar719&theme=tokyonight&hide_border=true&layout=donut&langs_count=6" alt="Top languages"/>
-  <img height="200" src="https://leetcard.jacoblin.cool/Ankitkumarmourya?theme=dark&font=Karma&ext=heatmap" alt="LeetCode stats"/>
+  <img height="165" src="https://github-readme-stats.shion.dev/api?username=Ankitkumar747&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=false&count_private=false" alt="GitHub stats"/>
+  <img height="165" src="https://streak-stats.demolab.com/?user=Ankitkumar747&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
 </p>
 
 <p align="center">
-  <sub>Top languages are from my project repositories · LeetCode stats are live from my profile</sub>
+  <img height="215" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Ankitkumar719&theme=tokyonight&hide_border=true&layout=donut&langs_count=6" alt="Top languages"/>
+  <img height="215" src="https://leetcard.jacoblin.cool/Ankitkumarmourya?theme=dark&font=Karma&ext=heatmap" alt="LeetCode stats"/>
 </p>
 
 ---
