@@ -88,6 +88,19 @@
 
 ---
 
+## 📊 Stats
+
+<p align="center">
+  <img height="200" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Ankitkumar719&theme=tokyonight&hide_border=true&layout=donut&langs_count=6" alt="Top languages"/>
+  <img height="200" src="https://leetcard.jacoblin.cool/Ankitkumarmourya?theme=dark&font=Karma&ext=heatmap" alt="LeetCode stats"/>
+</p>
+
+<p align="center">
+  <sub>Top languages are from my project repositories · LeetCode stats are live from my profile</sub>
+</p>
+
+---
+
 <p align="center">
   📫 Want to work together or just say hi? Reach me at
   <a href="mailto:emailankitkumar747@gmail.com">emailankitkumar747@gmail.com</a>
