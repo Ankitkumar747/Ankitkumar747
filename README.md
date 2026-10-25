@@ -47,17 +47,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | What it does | Tech |
-|---|---|---|
-| [**EasyShop**](https://github.com/Ankitkumar747/EasyShop) | Android e-commerce app with login/signup, product browsing, categories, profile, and a cart that syncs in real time | Kotlin, Jetpack Compose, Firebase Auth, Cloud Firestore |
-| [**QR-Based Attendance System**](https://github.com/Ankitkumar719/QR-Based-Attendance-System) | Full-stack attendance system with Admin, Faculty and Student roles, REST APIs, JWT auth and role-based access | Node.js, Express.js, MongoDB, JWT |
-| [**Notes App**](https://github.com/Ankitkumar719/Notes) | Notes app with full CRUD and local storage, built with MVVM and reactive state | Kotlin, Jetpack Compose, Room, StateFlow |
-| [**Weather App**](https://github.com/Ankitkumar719/Weather_App) | Live temperature, humidity, wind and conditions for any city, with loading and error handling | Kotlin, Retrofit, OpenWeather API |
-
----
-
 ## 📊 Stats
 
 <p align="center">
